@@ -1,0 +1,12 @@
+th{
+    font-weight: 900;
+    background-color:#c9eb34;
+    
+}
+table{
+    font-family:helvelica,sans-serif;
+    border-collapse:collapse;
+    border-width   : 4px;
+    border-style   : solid;
+    border-color   : #c9eb34;
+}
